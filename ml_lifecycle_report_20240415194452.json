@@ -1,0 +1,1 @@
+{"Date": "20240415194452", "Model": "RandomForestRegressor", "Best Parameters": {"max_depth": 10, "min_samples_leaf": 1, "min_samples_split": 2, "n_estimators": 50}, "Mean Squared Error": 5.73865171999992, "Root Mean Squared Error": 2.3955483130172768, "R\u00b2 Score": 0.7976185776190822}
